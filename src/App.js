@@ -14,7 +14,7 @@ function App() {
       <Offers />
       <Plans />
       <Rooms />
-      <Slides />
+     
       <Footer />
     </div>
   );
