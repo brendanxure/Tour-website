@@ -13,7 +13,7 @@ function App() {
       <Banner />
       <Offers />
       <Plans />
-      {/* <Rooms /> */}
+      <Rooms />
       <Slides />
       <Footer />
     </div>

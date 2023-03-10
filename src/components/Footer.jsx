@@ -47,7 +47,7 @@ const Footer = () => {
         <div className='mx-auto h-full flex flex-col justify-center'>
             <h2 className='font-bold py-2'>SUBSCRIBE TO OUR NEWSLETTER</h2>
             <p className='my-4'>The latest, articles and resources sent to your inbox weekly</p>
-            <form className='flex flex-wrap gap-4'>
+            <form className='flex flex-wrap gap-[2rem]'>
                 <input className='rounded-xl px-2 py-3 text-black italic outline-xl ring-xl border-2 bg-transparent' type='text' placeholder='Enter Email...' />
                 <button className='bg-white text-black px-6 py-3 font-bold'>Subscribe</button>
             </form>

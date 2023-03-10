@@ -16,7 +16,7 @@ const Plans = () => {
             <p className='text-md md:text-lg lg:text-xl my-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora voluptatibus deleniti perferendis culpa cupiditate, nulla ullam inventore, necessitatibus minus consequuntur facilis quo quidem, nemo fugit voluptatum expedita incidunt. Nulla, sed?</p>
             <div className='flex gap-4 my-2'>
                 <button className='rounded-full'>Learn More</button>
-                <button className='rounded-full border-white bg-black text-white'>Book Your Trip</button>
+                <button className='rounded-full border-white bg-black text-white mr-4'>Book Your Trip</button>
             </div>
         </div>
     </div>
